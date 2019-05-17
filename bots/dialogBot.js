@@ -22,6 +22,7 @@ class DialogBot extends ActivityHandler {
             logger.log('[DialogBot]: logger not passed in, defaulting to console');
         }
 
+        //Estamos realizando una modificacion de codigo en uno de los archivos.
         this.conversationState = conversationState;
         this.userState = userState;
         this.dialog = dialog;
