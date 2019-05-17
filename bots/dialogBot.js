@@ -26,6 +26,7 @@ class DialogBot extends ActivityHandler {
         //Estamos realizando otra modificacion.
         //otra linea
         //Otra prueba
+        //Estamos realizando una modificacion de un archivo en local.
         this.conversationState = conversationState;
         this.userState = userState;
         this.dialog = dialog;
