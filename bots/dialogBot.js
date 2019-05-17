@@ -23,6 +23,7 @@ class DialogBot extends ActivityHandler {
         }
 
         //Estamos realizando una modificacion de codigo en uno de los archivos.
+        //Estamos realizando otra modificacion.
         this.conversationState = conversationState;
         this.userState = userState;
         this.dialog = dialog;
